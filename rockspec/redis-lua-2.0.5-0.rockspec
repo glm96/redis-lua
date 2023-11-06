@@ -3,7 +3,7 @@ version = "2.0.5-0"
 
 source = {
    url = "https://github.com/glm96/redis-lua/releases/download/v2.0.5/redis-lua-2.0.5-0.tar.gz",
-   md5 = "c651d3aa5328b3c9927eac5e62daf604"
+   md5 = "5205f6295d992b567011a15a9eccf782"
 }
 
 description = {
@@ -11,7 +11,7 @@ description = {
    detailed = [[
       A Lua client library for the redis key value storage system.
    ]],
-   homepage = "http://github.com/nrk/redis-lua",
+   homepage = "http://github.com/glm96/redis-lua",
    license = "MIT/X11"
 }
 
