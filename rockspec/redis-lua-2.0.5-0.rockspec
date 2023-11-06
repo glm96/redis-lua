@@ -2,7 +2,7 @@ package = "redis-lua"
 version = "2.0.5-0"
 
 source = {
-   url = "http://cloud.github.com/downloads/glm96/redis-lua/redis-lua-2.0.5-0.tar.gz",
+   url = "https://github.com/glm96/redis-lua/releases/download/v2.0.5/redis-lua-2.0.5-0.tar.gz",
    md5 = "c651d3aa5328b3c9927eac5e62daf604"
 }
 
